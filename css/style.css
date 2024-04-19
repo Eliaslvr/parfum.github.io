@@ -6,7 +6,7 @@
 }
 
 body {
-    width: 65%;
+    width: 85%;
     margin: 0 auto;
     background: url(../image/804c4c9396fa8cfc5ec9c8bebd7d4e40.jpg);
 }
@@ -38,8 +38,12 @@ header {
 
 .firstMain {
     background: #262626;
-    height: 468px;
+    height: 400px;
     color: white;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .secondMain {
